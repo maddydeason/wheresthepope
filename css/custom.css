@@ -1,0 +1,17 @@
+/*custom CSS*/
+
+.header {
+	font-family: 'Montserrat', sans-serif;
+	border-bottom: solid 2px #ffd500;
+	font-weight: 700;
+	letter-spacing: 1px;
+	margin: 1em 0 .5em 0;
+}
+
+.logo {
+	height: 15px;
+}
+
+.timeline {
+	padding-bottom: 2em;
+}
